@@ -1,0 +1,6 @@
+Aturan File Test
+
+● Go-Lang memiliki aturan cara membuat file khusus untuk unit test
+● Untuk membuat file unit test, kita harus menggunakan akhiran _test
+● Jadi kita misal kita membuat file hello_world.go, artinya untuk membuat unit testnya, kita harus
+membuat file hello_world_test.go
